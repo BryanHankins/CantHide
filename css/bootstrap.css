@@ -11189,6 +11189,7 @@ fieldset:disabled .btn {
   border-color: #7F00FF !important;
 }
 
-.purple2 {
-  color: #7F00FF;
+.hamburgermenu {
+  background-color: white;
+  color: black;
 }
